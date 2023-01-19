@@ -1,0 +1,14 @@
+.ui-card-slider .center-slide {
+width-170px
+
+
+
+}
+
+
+
+.ui-card-slider {
+width: 320px;
+height: 230px;
+
+}
